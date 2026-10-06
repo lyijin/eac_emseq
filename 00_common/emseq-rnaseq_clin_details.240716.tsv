@@ -1,0 +1,139 @@
+study_id	sample_id	classification	risk	emseq_sample_no	emseq_include	rnaseq_sample_no	short_id	gender	age_at_collection	used_for	sample_collection_date	H_risk_category	pt_diagnosis_time_of_biopsy	worst_diagnosis_known
+redacted	redacted	IM	H	1	FALSE	1	B01	M	65	EMseq+RNAseq	redacted	adj	BE-LGD	BE-HGD
+redacted	redacted	IM	L	2	TRUE	NA	B18	M	71	EMseq	redacted	NA	BE	BE
+redacted	redacted	IM	H	3	TRUE	NA	B19	M	66	EMseq	redacted	prog	BE	BE-ID/BE-LGD
+redacted	redacted	IM	H	4	TRUE	NA	B20	M	46	EMseq	redacted	adj	BE-LGD	BE-LGD
+redacted	redacted	IM	H	NA	NA	2	B34	M	46	RNAseq	redacted	NA	NA	NA
+redacted	redacted	IM	L	5	TRUE	NA	B21	M	57	EMseq	redacted	NA	BE	BE-one visit
+redacted	redacted	IM	L	6	TRUE	NA	B22	M	66	EMseq	redacted	NA	BE	BE
+redacted	redacted	LGD	L	8	TRUE	7	L14	M	73	EMseq+RNAseq	redacted	NA	BE-LGD	BE-LGD
+redacted	redacted	IM	H	7	TRUE	NA	B23	M	74	EMseq	redacted	adj	BE-LGD	BE-LGD
+redacted	redacted	Normal squamous	L	9	TRUE	3	N01	F	66	EMseq+RNAseq	redacted	NA	BE	BE-one visit
+redacted	redacted	IM	H	11	TRUE	5	B02	M	53	EMseq+RNAseq	redacted	adj	BE-LGD	BE-LGD
+redacted	redacted	LGD	L	10	TRUE	NA	L15	M	59	EMseq	redacted	NA	BE-LGD	BE-LGD
+redacted	redacted	LGD	L	NA	NA	4	L23	M	60	RNAseq	redacted	NA	NA	NA
+redacted	redacted	IM	L	12	TRUE	6	B03	M	46	EMseq+RNAseq	redacted	NA	BE	BE
+redacted	redacted	Cancer	H	13	FALSE	8	C01	M	58	EMseq+RNAseq	redacted	NA	EAC	EAC
+redacted	redacted	Normal squamous	L	14	TRUE	NA	N05	M	64	EMseq	redacted	NA	BE	BE
+redacted	redacted	Cancer	H	15	TRUE	NA	C11	M	62	EMseq	redacted	NA	EAC	EAC
+redacted	redacted	Normal squamous	L	18	TRUE	NA	N06	M	68	EMseq	redacted	NA	BE	BE
+redacted	redacted	LGD	L	17	FALSE	NA	L16	M	72	EMseq	redacted	NA	BE	BE
+redacted	redacted	IM	L	16	TRUE	9	B04	M	73	EMseq+RNAseq	redacted	NA	BE	BE
+redacted	redacted	IM	H	NA	NA	10	B35	M	84	RNAseq	redacted	NA	NA	NA
+redacted	redacted	LGD	L	19	FALSE	11	L01	M	70	EMseq+RNAseq	redacted	NA	BE-LGD	BE-LGD
+redacted	redacted	IM	H	20	FALSE	12	B05	M	70	EMseq+RNAseq	redacted	adj	BE-LGD	BE-LGD
+redacted	redacted	IM	L	21	TRUE	13	B06	M	30	EMseq+RNAseq	redacted	NA	BE	BE
+redacted	redacted	LGD	H	22	TRUE	NA	L17	M	75	EMseq	redacted	adj	EAC	EAC
+redacted	redacted	Cancer	H	23	TRUE	NA	C12	M	75	EMseq	redacted	NA	EAC	EAC
+redacted	redacted	HGD	H	24	TRUE	14	H01	M	70	EMseq+RNAseq	redacted	adj	EAC	EAC
+redacted	redacted	LGD	H	25	TRUE	15	L02	M	70	EMseq+RNAseq	redacted	adj	EAC	EAC
+redacted	redacted	Normal squamous	H	26	TRUE	16	N02	M	70	EMseq+RNAseq	redacted	adj	EAC	EAC
+redacted	redacted	Normal squamous	L	27	TRUE	NA	N07	F	64	EMseq	redacted	NA	CM(P-BE)	BE
+redacted	redacted	LGD	L	28	TRUE	17	L03	M	61	EMseq+RNAseq	redacted	NA	BE-LGD	BE-LGD
+redacted	redacted	IM	L	NA	NA	18	B36	M	75	RNAseq	redacted	NA	NA	NA
+redacted	redacted	IM	L	29	TRUE	NA	B24	M	75	EMseq	redacted	NA	BE	BE-one visit
+redacted	redacted	IM	H	30	FALSE	19	B07	M	59	EMseq+RNAseq	redacted	adj	EAC	EAC
+redacted	redacted	Normal squamous	H	31	TRUE	20	N03	M	29	EMseq+RNAseq	redacted	adj	EAC	EAC
+redacted	redacted	IM	L	NA	NA	21	B37	F	71	RNAseq	redacted	NA	NA	NA
+redacted	redacted	LGD	H	32	FALSE	22	L04	M	51	EMseq+RNAseq	redacted	prog	BE-LGD	EAC
+redacted	redacted	IM	H	33	TRUE	NA	B25	M	51	EMseq	redacted	adj	BE-LGD	EAC
+redacted	redacted	Cancer	H	34	TRUE	23	C02	M	53	EMseq+RNAseq	redacted	NA	EAC	EAC
+redacted	redacted	IM	H	35	TRUE	NA	B26	M	54	EMseq	redacted	adj	EAC	EAC
+redacted	redacted	Cancer	H	36	TRUE	24	C03	M	54	EMseq+RNAseq	redacted	NA	EAC	EAC
+redacted	redacted	IM	L	37	TRUE	25	B08	M	58	EMseq+RNAseq	redacted	NA	BE	BE-ID
+redacted	redacted	Normal squamous	L	38	TRUE	NA	N08	M	61	EMseq	redacted	NA	CM(P-ID)	BE-ID
+redacted	redacted	IM	L	NA	NA	26	B38	M	44	RNAseq	redacted	NA	NA	NA
+redacted	redacted	HGD	H	39	TRUE	27	H02	M	52	EMseq+RNAseq	redacted	adj	EAC	EAC
+redacted	redacted	LGD	H	40	TRUE	28	L05	M	52	EMseq+RNAseq	redacted	adj	EAC	EAC
+redacted	redacted	Normal squamous	L	NA	NA	29	N11	M	30	RNAseq	redacted	NA	NA	NA
+redacted	redacted	LGD	L	NA	NA	30	L24	M	67	RNAseq	redacted	NA	NA	NA
+redacted	redacted	IM	H	NA	NA	31	B39	M	67	RNAseq	redacted	NA	NA	NA
+redacted	redacted	IM	L	41	TRUE	32	B09	M	65	EMseq+RNAseq	redacted	NA	BE	BE
+redacted	redacted	LGD	L	43	TRUE	34	L06	M	72	EMseq+RNAseq	redacted	NA	BE-LGD	BE-LGD
+redacted	redacted	IM	H	42	FALSE	33	B10	M	74	EMseq+RNAseq	redacted	IM post LGD	BE(P-LGD)	BE-LGD
+redacted	redacted	Cancer	H	44	TRUE	35	C04	F	80	EMseq+RNAseq	redacted	NA	EAC	EAC
+redacted	redacted	LGD	L	NA	NA	37	L25	M	56	RNAseq	redacted	NA	NA	NA
+redacted	redacted	IM	H	45	TRUE	36	B11	M	57	EMseq+RNAseq	redacted	adj	BE-LGD	BE-LGD
+redacted	redacted	IM	L	46	TRUE	NA	B27	M	61	EMseq	redacted	NA	BE	BE
+redacted	redacted	IM	L	47	TRUE	38	B12	M	48	EMseq+RNAseq	redacted	NA	BE	BE-one visit 
+redacted	redacted	Normal squamous	L	NA	NA	39	N12	M	60	RNAseq	redacted	NA	NA	NA
+redacted	redacted	Cancer	H	48	TRUE	40	C06	M	78	EMseq+RNAseq	redacted	NA	EAC	EAC
+redacted	redacted	Normal squamous	L	NA	NA	41	N13	M	73	RNAseq	redacted	NA	NA	NA
+redacted	redacted	Normal squamous	L	NA	NA	42	N14	M	72	RNAseq	redacted	NA	NA	NA
+redacted	redacted	Cancer	H	NA	NA	45	C15	M	58	RNAseq	redacted	NA	NA	NA
+redacted	redacted	Normal squamous	H	NA	NA	44	N15	M	58	RNAseq	redacted	NA	NA	NA
+redacted	redacted	LGD	H	49	TRUE	43	L07	M	58	EMseq+RNAseq	redacted	adj	EAC	EAC
+redacted	redacted	IM	L	50	TRUE	NA	B28	M	46	EMseq	redacted	NA	BE	BE
+redacted	redacted	Cancer	H	51	TRUE	46	C07	M	53	EMseq+RNAseq	redacted	NA	EAC	EAC
+redacted	redacted	IM	L	NA	NA	47	B40	M	56	RNAseq	redacted	NA	NA	NA
+redacted	redacted	IM	H	52	TRUE	NA	B29	M	60	EMseq	redacted	prog	BE	BE-LGD
+redacted	redacted	LGD	L	53	TRUE	NA	L18	M	61	EMseq	redacted	NA	BE-LGD	BE-LGD
+redacted	redacted	IM	H	NA	NA	48	B41	M	62	RNAseq	redacted	NA	NA	NA
+redacted	redacted	IM	L	NA	NA	49	B42	M	57	RNAseq	redacted	NA	NA	NA
+redacted	redacted	IM	L	NA	NA	50	B43	M	55	RNAseq	redacted	NA	NA	NA
+redacted	redacted	IM	L	54	TRUE	51	B13	F	76	EMseq+RNAseq	redacted	NA	BE	BE-one visit 
+redacted	redacted	IM	L	55	TRUE	52	B14	M	59	EMseq+RNAseq	redacted	NA	BE	BE
+redacted	redacted	IM	L	NA	NA	54	B44	M	69	RNAseq	redacted	NA	NA	NA
+redacted	redacted	IM	L	56	TRUE	53	B15	M	69	EMseq+RNAseq	redacted	NA	BE	BE
+redacted	redacted	Cancer	H	NA	NA	56	C16	M	67	RNAseq	redacted	NA	NA	NA
+redacted	redacted	Normal squamous	H	NA	NA	55	N16	M	68	RNAseq	redacted	NA	NA	NA
+redacted	redacted	LGD	L	57	TRUE	NA	L19	M	79	EMseq	redacted	NA	BE-LGD	BE-LGD one visit
+redacted	redacted	IM	L	58	TRUE	NA	B30	M	65	EMseq	redacted	NA	BE	BE
+redacted	redacted	Cancer	H	NA	NA	57	C17	M	70	RNAseq	redacted	NA	NA	NA
+redacted	redacted	Cancer	H	NA	NA	58	C18	M	50	RNAseq	redacted	NA	NA	NA
+redacted	redacted	IM	L	NA	NA	59	B45	M	67	RNAseq	redacted	NA	NA	NA
+redacted	redacted	HGD	H	59	TRUE	NA	H11	M	67	EMseq	redacted	adj	EAC	EAC
+redacted	redacted	IM	H	60	TRUE	60	B16	M	66	EMseq+RNAseq	redacted	adj	EAC	EAC
+redacted	redacted	LGD	H	61	TRUE	61	L08	M	66	EMseq+RNAseq	redacted	adj	EAC	EAC
+redacted	redacted	HGD	L	62	TRUE	NA	H12	M	75	EMseq	redacted	NA	BE-HGD	BE-HGD
+redacted	redacted	Cancer	H	63	TRUE	NA	C13	M	62	EMseq	redacted	NA	IMC	IMC-one visit
+redacted	redacted	IM	H	NA	NA	62	B46	F	64	RNAseq	redacted	NA	NA	NA
+redacted	redacted	IM	H	64	TRUE	63	B17	M	51	EMseq+RNAseq	redacted	adj	EAC	EAC
+redacted	redacted	HGD	H	NA	NA	64	H19	M	83	RNAseq	redacted	NA	NA	NA
+redacted	redacted	Cancer	H	NA	NA	65	C19	M	83	RNAseq	redacted	NA	NA	NA
+redacted	redacted	HGD	H	NA	NA	66	H20	M	77	RNAseq	redacted	NA	NA	NA
+redacted	redacted	LGD	H	65	TRUE	67	L09	M	60	EMseq+RNAseq	redacted	adj	BE-HGD	BE-HGD
+redacted	redacted	LGD	H	66	TRUE	68	L10	F	73	EMseq+RNAseq	redacted	adj	IMC	IMC
+redacted	redacted	IM	L	NA	NA	69	B47	M	62	RNAseq	redacted	NA	NA	NA
+redacted	redacted	HGD	L	67	TRUE	70	H03	F	27	EMseq+RNAseq	redacted	NA	BE-HGD	BE-HGD
+redacted	redacted	HGD	H	68	TRUE	71	H04	M	67	EMseq+RNAseq	redacted	adj	IMC	IMC
+redacted	redacted	IM	H	NA	NA	95	B51	M	59	RNAseq	redacted	NA	NA	NA
+redacted	redacted	LGD	H	NA	NA	96	L31	M	59	RNAseq	redacted	NA	NA	NA
+redacted	redacted	HGD	L	69	TRUE	72	H05	M	66	EMseq+RNAseq	redacted	NA	BE-LGD	BE-HGD
+redacted	redacted	Normal squamous	H	70	TRUE	73	N04	M	66	EMseq+RNAseq	redacted	adj	EAC	EAC
+redacted	redacted	Cancer	H	71	TRUE	74	C08	M	65	EMseq+RNAseq	redacted	NA	EAC	EAC
+redacted	redacted	Cancer	H	73	TRUE	76	C09	M	66	EMseq+RNAseq	redacted	NA	EAC	EAC
+redacted	redacted	LGD	H	72	TRUE	75	L11	M	66	EMseq+RNAseq	redacted	adj	EAC	EAC
+redacted	redacted	LGD	H	74	TRUE	NA	L20	M	83	EMseq	redacted	adj	BE-HGD	BE-HGD
+redacted	redacted	LGD	H	NA	NA	77	L26	M	85	RNAseq	redacted	NA	NA	NA
+redacted	redacted	HGD	L	75	TRUE	78	H06	M	68	EMseq+RNAseq	redacted	NA	BE-HGD	BE-HGD
+redacted	redacted	IM	H	NA	NA	79	B48	F	71	RNAseq	redacted	NA	NA	NA
+redacted	redacted	IM	H	76	TRUE	NA	B31	M	55	EMseq	redacted	adj	IMC	IMC-one visit
+redacted	redacted	Cancer	H	NA	NA	80	C20	M	54	RNAseq	redacted	NA	NA	NA
+redacted	redacted	LGD	L	NA	NA	94	L30	M	84	RNAseq	redacted	NA	NA	NA
+redacted	redacted	LGD	H	77	TRUE	NA	L21	M	79	EMseq	redacted	adj	EAC	EAC
+redacted	redacted	LGD	H	NA	NA	81	L27	F	69	RNAseq	redacted	NA	NA	NA
+redacted	redacted	LGD	H	78	TRUE	82	L12	M	69	EMseq+RNAseq	redacted	adj	HGD(P-IMC)	IMC
+redacted	redacted	Normal squamous	H	79	TRUE	NA	N09	M	53	EMseq	redacted	adj	EAC	EAC
+redacted	redacted	HGD	H	80	FALSE	83	H07	M	61	EMseq+RNAseq	redacted	suspicious of cancer	BE-HGD	BE-HGD
+redacted	redacted	IM	H	81	TRUE	NA	B32	M	61	EMseq	redacted	adj	BE-HGD	BE-HGD
+redacted	redacted	LGD	H	82	TRUE	84	L13	M	66	EMseq+RNAseq	redacted	adj	?BE-HGD	?BE-HGD
+redacted	redacted	HGD	H	83	TRUE	NA	H13	F	72	EMseq	redacted	adj	EAC	EAC
+redacted	redacted	Cancer	H	84	TRUE	85	C10	M	82	EMseq+RNAseq	redacted	NA	EAC	EAC
+redacted	redacted	IM	L	85	TRUE	NA	B33	F	73	EMseq	redacted	NA	BE	BE
+redacted	redacted	Cancer	H	86	TRUE	NA	C14	M	85	EMseq	redacted	NA	EAC	EAC
+redacted	redacted	HGD	H	87	TRUE	NA	H14	M	77	EMseq	redacted	adj	IMC	IMC-one visit
+redacted	redacted	IM	L	NA	NA	86	B49	M	79	RNAseq	redacted	NA	NA	NA
+redacted	redacted	HGD	L	88	TRUE	87	H08	F	74	EMseq+RNAseq	redacted	NA	BE-HGD	BE-HGD
+redacted	redacted	LGD	H	89	TRUE	NA	L22	M	71	EMseq	redacted	adj	BE-HGD	BE-HGD one visit
+redacted	redacted	HGD	H	90	TRUE	NA	H15	F	71	EMseq	redacted	adj	IMC	IMC-one visit
+redacted	redacted	HGD	H	91	TRUE	88	H09	M	67	EMseq+RNAseq	redacted	adj	EAC	EAC
+redacted	redacted	IM	H	NA	NA	90	B50	M	72	RNAseq	redacted	NA	NA	NA
+redacted	redacted	HGD	H	92	TRUE	89	H10	M	72	EMseq+RNAseq	redacted	adj	IMC	IMC-one visit
+redacted	redacted	Normal squamous	H	93	TRUE	NA	N10	M	72	EMseq	redacted	adj	IMC	IMC-one visit
+redacted	redacted	HGD	L	94	TRUE	NA	H16	M	69	EMseq	redacted	NA	BE-HGD	BE-HGD one visit
+redacted	redacted	LGD	H	NA	NA	91	L28	M	81	RNAseq	redacted	NA	NA	NA
+redacted	redacted	LGD	H	NA	NA	92	L29	M	76	RNAseq	redacted	NA	NA	NA
+redacted	redacted	HGD	H	95	TRUE	NA	H17	M	74	EMseq	redacted	adj	EAC	EAC
+redacted	redacted	HGD	L	96	FALSE	NA	H18	M	55	EMseq	redacted	NA	BE-HGD	BE-HGD one visit
+redacted	redacted	HGD	L	NA	NA	93	H21	M	55	RNAseq	redacted	NA	NA	NA

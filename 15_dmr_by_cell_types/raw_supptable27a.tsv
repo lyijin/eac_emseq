@@ -1,0 +1,7 @@
+	NDBE vs. NSq (n = 7578)	EAC vs. NSq (n = 7149)	LGD vs. NDBE (n = 906)	HGD/EAC vs. NDBE (n = 2091)	HGD vs. LGD (n = 347)	EAC vs. HGD (n = 985)
+Columnar vs. Squamous (n = 6506)	6190	5762	867	1587	216	707
+Lymphoid vs. Squamous (n = 6026)	5687	5366	740	1438	231	573
+Erythroid vs. Squamous (n = 4803)	4684	4685	861	1469	204	589
+Lymphoid vs. Columnar (n = 1360)	802	776	45	350	97	111
+Erythroid vs. Columnar (n = 130)	90	94	15	103	41	17
+Erythroid vs. Lymphoid (n = 301)	296	297	169	167	11	60
