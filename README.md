@@ -12,7 +12,7 @@ This repo stores the Python/R scripts written for this project; but is not compl
 
 Combine this repo with data hosted on CSIRO DAP (https://data.csiro.au/collection/78585), which stores the larger data files needed to run some of the scripts in this repo.
 
-For completeness, the raw BAM files have been uploaded to SRA, TODO INSERT SRA LINK HERE. Note that none of the scripts here depend on the BAM files--the BAM files were used to generate the per-position cov files with `bismark_methylation_extractor`, and everything downstream uses those cov files.
+For completeness, the raw BAM files have been uploaded to SRA at PRJNA1540235 (embargoed currently). Note that none of the scripts here depend on the BAM files--the BAM files were used to generate the per-position cov files with `bismark_methylation_extractor`, and everything downstream uses those cov files.
 
 American English is (was meant to be?) used throughout--not exactly my preference--as the project team agreed to produce figures with E for "esophagus" (vs. O-equivalents for "oesophagus") for consistency across our manuscripts. Apologies if you notice inconsistency in spelling, it's hard to switch my ~~favored~~ *favoured* spelling preferences overnight.
 
